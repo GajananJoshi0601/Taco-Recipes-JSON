@@ -23,18 +23,18 @@
 <p>Here are some screenshots showcasing the main features of our Spotify Clone:</p>
 
 <p align="center">
-    <img src="/SS/ss-1.jpg" alt="Home Page" width="400">
+    <img src="./SS/ss-1.jpg" alt="Home Page" width="400">
     <br>
     <em>Home Page</em>
 </p>
 
 <p align="center">
-    <img src="/SS/ss-2.jpg" alt="Playlist Page" width="400">
+    <img src="./SS/ss-2.jpg" alt="Playlist Page" width="400">
     <br>
-    <em>Playlist Page</em>
+    <em>Ingredients Page</em>
 </p>
 
-'<h2>Contributing</h2>
+<h2>Contributing</h2>
 <p>Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any bugs or feature requests.</p>
 
 <h2>License</h2>
