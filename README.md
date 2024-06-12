@@ -14,7 +14,7 @@
 </ul>
 
 <h2 id="installation">Installation</h2>
-<p>To get started with Band-Generator, follow these steps:</p>
+<p>To get started with Taco Recipes using JSON, follow these steps:</p>
 <ol>
     <li>Clone the repository:</li> 
     <pre><code>git clone https://github.com/GajananJoshi0601/Band-Generator.git</code></pre>
