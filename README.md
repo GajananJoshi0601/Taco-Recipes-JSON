@@ -14,11 +14,22 @@
 </ul>
 
 <h2 id="installation">Installation</h2>
-<p>To get started, clone this repository to your local machine:</p>
-<pre><code>git clone https://github.com/yourusername/Taco-Recipes-using-JSON.git</code></pre>
-<p>Navigate to the project directory:</p>
-<pre><code>cd Taco-Recipes-using-JSON</code></pre>
-
+<p>To get started with Band-Generator, follow these steps:</p>
+<ol>
+    <li>Clone the repository:</li> 
+    <pre><code>git clone https://github.com/GajananJoshi0601/Band-Generator.git</code></pre>
+    <li>Open and Extract It</li>
+    <li>Create a Directory or Folder</li>
+    <li>Now index.js File creation</li>
+    <li>Initialize NPM : </li>
+    <pre><code>npm init -y</code></pre>
+    <li>Install the Required Packages : </li>
+    <pre><code>npm i express ejs body-parser</code></pre>
+    <pre><code>npm install express ejs body-parser</code></pre>
+    <li>Final Step Install nodemon : </li>
+    <pre><code>nodemon index.js</code></pre>
+    
+</ol>
 <h2 id="overview">Quick Overview of the UI</h2>
 <p>Here are some screenshots showcasing the main features of our Spotify Clone:</p>
 
