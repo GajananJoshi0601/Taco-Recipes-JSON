@@ -17,7 +17,7 @@
 <p>To get started with Taco Recipes using JSON, follow these steps:</p>
 <ol>
     <li>Clone the repository:</li> 
-    <pre><code>git clone https://github.com/GajananJoshi0601/Band-Generator.git</code></pre>
+    <pre><code>git clone https://github.com/GajananJoshi0601/Taco-Recipes-JSON.git</code></pre>
     <li>Open and Extract It</li>
     <li>Create a Directory or Folder</li>
     <li>Now index.js File creation</li>
